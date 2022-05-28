@@ -1,5 +1,4 @@
-##Google Data Studio
-Описание:
+## Google Data Studio
 
 Компания «Product Gallery», которая занимается дистрибьюцией продуктов по всему миру. Ассортимент «Product Gallery» включает фрукты, овощи, молочные продукты, мясо и птицу, морепродукты, крупы, приправы и кондитерские изделия.
 
@@ -14,21 +13,22 @@
 2. [https://demos.qlik.com/qliksense?category=Retail](https://demos.qlik.com/qliksense?category=Retail)
 3. [https://powerbi.microsoft.com/en-us/partner-showcase/agile-analytics-retail-insights/](https://powerbi.microsoft.com/en-us/partner-showcase/agile-analytics-retail-insights/)
 4. [https://www.tableau.com/solutions/topic/retail-wholesale](https://www.tableau.com/solutions/topic/retail-wholesale)
+
 и попросил разработать для него приложение в Google Data Studio. Это [данные](https://github.com/AlfiyaNuri/projects2021/blob/main/m1/Product%20Gallery.xlsx) «Product Gallery», которые предоставил Владимир.
 
 *Глоссарий по данным и формулам «Product Gallery»:*
-  Поставщик = Supplier.
-  Стоимость единицы товара при закупке у поставщика (себестоимость) = UnitCost.
-  Цена единицы товара для клиента = Unit Price.
-  Количество = Quantity.
-  Дата заказа = Дата продажи = OrderDate.
-  Номер заказа = OrderID.
-  Скидка = Discount.
-  Количество единиц товара на складе = UnitsInStock.
-  Количество единиц товара в заказах от поставщика = UnitsOnOrder.
-  Продажи должны рассчитываться как в деньгах, так и в количестве проданных единиц товара.
-  Прибыль рассчитывается как разница между продажей и себестоимостью.
-  Маржа, % (в процентах) рассчитывается как отношение между прибылью и продажами.
++ Поставщик = Supplier.
++ Стоимость единицы товара при закупке у поставщика (себестоимость) = UnitCost.
++ Цена единицы товара для клиента = Unit Price.
++ Количество = Quantity.
++ Дата заказа = Дата продажи = OrderDate.
++ Номер заказа = OrderID.
++ Скидка = Discount.
++ Количество единиц товара на складе = UnitsInStock.
++ Количество единиц товара в заказах от поставщика = UnitsOnOrder.
++ Продажи должны рассчитываться как в деньгах, так и в количестве проданных единиц товара.
++ Прибыль рассчитывается как разница между продажей и себестоимостью.
++ Маржа, % (в процентах) рассчитывается как отношение между прибылью и продажами.
 
 ***Задание:***
 Разработайте аналитическое приложение, состоящее из нескольких дашбордов, для компании Владимира «Product Gallery» в Google Data Studio, “поделитесь” с ним с преподавателем.

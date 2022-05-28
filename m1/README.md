@@ -7,5 +7,5 @@
 
 ### Задание 2
 Знакомство с основными методами анализа данных с помощью библиотеки Pandas, анализируя [набор данных](https://github.com/AlfiyaNuri/projects2021/blob/main/m1/telecom_churn.csv) по оттоку клиентов телеком-оператора.
-* [Текст задания](https://github.com/AlfiyaNuri/projects2021/blob/main/m1/3.%20m1task2_text.md)
+* [Текст задания](https://github.com/AlfiyaNuri/projects2021/blob/main/m1/3.%20m1t2_text.md)
 * [Решение](https://github.com/AlfiyaNuri/projects2021/blob/main/m1/4.%20m1t2_Pandas_Telecom.ipynb)

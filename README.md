@@ -3,5 +3,5 @@
 
 
 ## [Модуль 1](https://github.com/AlfiyaNuri/projects2021/tree/main/m1)
-* Задание 1 [Ссылка на Google Data Studio](https://datastudio.google.com/reporting/66fecbf3-ca2e-4153-9d6f-a00bb0814aa0/page/GjgQC)  
-* Задание 2 [Задание 2] 
+* Задание 1 - Создание дашбордов в Google Data Studio  
+* Задание 2 - Анализ данных как первичное знакомство с библиотекой Pandas

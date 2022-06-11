@@ -7,4 +7,4 @@
 5. [Библиотека XGBoost](https://github.com/AlfiyaNuri/projects2021/blob/main/m2/5.%20m2_xgboost.ipynb)
 6. [Библиотека AutoGluon](https://colab.research.google.com/drive/1TePY1W32qcEgy_yhtXFDRX8lb4FfbVJz?usp=sharing)
 7. [Библиотека PyCaret](https://colab.research.google.com/drive/1dPVl0Pqc_fsYuAbkzaUyTw1hVKtcX0El?usp=sharing)
-8. [Сравнение метрик созданных выше моделей машинного обучения]()
+8. [Сравнение метрик созданных выше моделей машинного обучения](https://github.com/AlfiyaNuri/projects2021/blob/main/m2/8.%20m2_results.docx)
